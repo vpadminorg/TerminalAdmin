@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/TerminalAdmin/pl/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl</language>
+    <lastBuildDate>Tue, 25 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/TerminalAdmin/pl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Witaj przyjacielu!</title>
+      <link>/TerminalAdmin/pl/posts/113uh13b1ib1iyeb1/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/TerminalAdmin/pl/posts/113uh13b1ib1iyeb1/</guid>
+      <description>&lt;p&gt;Witaj w demie motywu &lt;code&gt;Terminal&lt;/code&gt;. Porozglądaj się i zobacz czy to jest to czego potrzebujesz dla swojej strony.&lt;/p&gt;</description>
+      <content>&lt;p&gt;Witaj w demie motywu &lt;code&gt;Terminal&lt;/code&gt;. Porozglądaj się i zobacz czy to jest to czego potrzebujesz dla swojej strony.&lt;/p&gt;
+&lt;p&gt;Jeśli jesteś ciekaw jak stworzyć &amp;ldquo;ramkę powitalna&amp;rdquo;, znajdującą się na stronie głównej, przeczytaj &lt;a href=&#34;/TerminalAdmin/framed-box&#34;&gt;ten artykuł&lt;/a&gt; (EN).&lt;/p&gt;</content>
+    </item>
+    
+    <item>
+      <title>O motywie</title>
+      <link>/TerminalAdmin/pl/about/</link>
+      <pubDate>Fri, 25 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/TerminalAdmin/pl/about/</guid>
+      <description>&lt;h2 id=&#34;witaj&#34;&gt;Witaj&lt;/h2&gt;
+&lt;p&gt;Mam na imię Radek i jestem autorem tego motywu. Zrobiłem go, aby usprawnić Ci proces publikacji swoich pomysłow.&lt;/p&gt;
+&lt;p&gt;Wszyscy wiemy jak trudne i skomplikowane stało się budowanie nawet najprostszych rzeczy obecnie w internecie. Musisz przygotować i skonfigurować masę różnych narzedzi, zanim będziesz mógł stworzyć coś własnego.&lt;/p&gt;
+&lt;p&gt;Ten motyw jest bardzo prosty, ale obsługuje podstawowe rzeczy dostarczane przez Hugo. Jedyne co musisz zrobić, to tylko zaczać pisać!&lt;/p&gt;
+&lt;p&gt;Motyw zawiera:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;w pełni konfigurowalne środowisko kolorystyczne generowane przy pomocy &lt;a href=&#34;https://panr.github.io/terminal-css/&#34;&gt;&lt;strong&gt;terminal.css&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;doskonałe warunki do czytania dzięki &lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;&lt;strong&gt;Fira Code&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;miłe dla oka i przydatne kolorowanie składni kodu &lt;a href=&#34;https://prismjs.com&#34;&gt;&lt;strong&gt;PrismJS&lt;/strong&gt;&lt;/a&gt;, które automatycznie dostosowuje się do wybranego przez Ciebie schematu kolorów.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I to wszystko, powodzenia!&lt;/p&gt;</description>
+      <content>&lt;h2 id=&#34;witaj&#34;&gt;Witaj&lt;/h2&gt;
+&lt;p&gt;Mam na imię Radek i jestem autorem tego motywu. Zrobiłem go, aby usprawnić Ci proces publikacji swoich pomysłow.&lt;/p&gt;
+&lt;p&gt;Wszyscy wiemy jak trudne i skomplikowane stało się budowanie nawet najprostszych rzeczy obecnie w internecie. Musisz przygotować i skonfigurować masę różnych narzedzi, zanim będziesz mógł stworzyć coś własnego.&lt;/p&gt;
+&lt;p&gt;Ten motyw jest bardzo prosty, ale obsługuje podstawowe rzeczy dostarczane przez Hugo. Jedyne co musisz zrobić, to tylko zaczać pisać!&lt;/p&gt;
+&lt;p&gt;Motyw zawiera:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;w pełni konfigurowalne środowisko kolorystyczne generowane przy pomocy &lt;a href=&#34;https://panr.github.io/terminal-css/&#34;&gt;&lt;strong&gt;terminal.css&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;doskonałe warunki do czytania dzięki &lt;a href=&#34;https://github.com/tonsky/FiraCode&#34;&gt;&lt;strong&gt;Fira Code&lt;/strong&gt;&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;miłe dla oka i przydatne kolorowanie składni kodu &lt;a href=&#34;https://prismjs.com&#34;&gt;&lt;strong&gt;PrismJS&lt;/strong&gt;&lt;/a&gt;, które automatycznie dostosowuje się do wybranego przez Ciebie schematu kolorów.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I to wszystko, powodzenia!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
